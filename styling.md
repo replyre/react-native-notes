@@ -219,7 +219,7 @@ const styles = StyleSheet.create({
   },
 });
 ```
-
-// Js object loads evertime the componet renders
-// StyleSheet object loads only once when the component mounts // static CSS
-// Dynamic styles are in line CSS
+- Js object loads evertime the componet renders
+-  StyleSheet object loads only once when the component mounts -
+-  Static CSS
+- Dynamic styles are in line CSS
